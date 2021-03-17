@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML engineering👨‍🔧
 - 🌱 I’m currently learning Full stack Development
 - 💞️ I’m looking to collaborate on GSoc
-- 📫 How to reach me though gmail sh28pa@gmail.com
+- 📫 How to reach me though gmail shivmpndey91198@gmil.com
 
 <!---
 comorina/comorina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
