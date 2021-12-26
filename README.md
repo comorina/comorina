@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @comorina
 - 👀 I’m interested in ML engineering👨‍🔧
 - 🌱 I’m currently learning Full stack Development
-- 💞️ I’m looking to collaborate on GSoc
 - 📫 How to reach me though email shivampandey91198@gmail.com
 
 <!---
